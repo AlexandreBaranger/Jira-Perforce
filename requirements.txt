@@ -1,2 +1,4 @@
 jira
 p4python
+pandas
+openpyxl
